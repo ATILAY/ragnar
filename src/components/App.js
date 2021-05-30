@@ -46,3 +46,5 @@ export default App
 //firebase deploy --only firestore:rules // auth-todo-83419 auth-todo-83419
 //i can check on https://console.firebase.google.com/project/auth-dev-1ed67/firestore/rules?consoleUI=FIREBASE
 //on firestore database section from left 
+//"npm --prefix $Env:RESOURCE_DIR run lint"
+//https://stackoverflow.com/questions/48345315/error-deploying-with-firebase-on-npm-prefix-resource-dir-run-lint
